@@ -5,7 +5,7 @@
     ],
     "jsRules": {},
     "rules": {
-        "semicolon": [true, "never"],
+        "semicolon": [true, "always"],
         "quotemark": [true, "single"],
         "ordered-imports": false,
         "member-access": false,
@@ -19,7 +19,8 @@
         "ban-types": false,
         "interface-name": false,
         "forin": false,
-        "no-empty-interface": false
+        "no-empty-interface": false,
+        "indent": [true, "tabs", 2]
     },
     "rulesDirectory": []
 }

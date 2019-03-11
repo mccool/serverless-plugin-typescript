@@ -1,7 +1,5 @@
 import * as typescript from './typescript'
-import * as ts from 'typescript'
 import { watchFile, unwatchFile, Stats} from 'fs'
-import { ServerlessOptions, ServerlessInstance, ServerlessFunction } from './types'
 
 export function watchFiles(
   rootFileNames: string[],

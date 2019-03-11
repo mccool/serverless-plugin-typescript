@@ -1,6 +1,6 @@
 {
-  "name": "serverless-plugin-typescript",
-  "version": "0.0.0-semantic-release",
+  "name": "@mccool/serverless-plugin-typescript",
+  "version": "0.0.1",
   "main": "dist/src/index.js",
   "files": [
     "dist",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/graphcool/serverless-plugin-typescript.git"
+    "url": "git+https://github.com/mccool/serverless-plugin-typescript.git"
   },
   "keywords": [
     "serverless",
