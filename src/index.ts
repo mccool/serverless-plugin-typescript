@@ -132,7 +132,6 @@ export class TypeScriptPlugin {
 			this.originalServicePath,
 			this.isWatching ? null : this.serverless.cli
 		);
-		this.serverless.cli.log(`tsconfig: ${tsconfig}`);
 
 		tsconfig.outDir = buildFolder;
 

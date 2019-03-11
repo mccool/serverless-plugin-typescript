@@ -1,5 +1,5 @@
 {
-  "name": "@mccool/serverless-plugin-typescript",
+  "name": "serverless-plugin-typescript",
   "version": "0.0.1",
   "main": "dist/src/index.js",
   "files": [
